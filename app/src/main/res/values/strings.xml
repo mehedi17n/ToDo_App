@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sample</string>
+    <string name="title">Simple To-Do App</string>
+    <string name="hint">Enter a task</string>
+    <string name="button_text">Add Task</string>
+    <color name="sky_blue">#87CEEB</color>
+</resources>
